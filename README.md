@@ -251,37 +251,29 @@ Identifica:
 ## 💡 Insights Principais
 
 ### **1. Idade vs Risco**
-```
-Clientes mais jovens: Risco MAIOR
-Clientes mais velhos: Risco MENOR
-```
+<img width="531" height="404" alt="image" src="https://github.com/user-attachments/assets/9fd35e72-9f1c-44ee-a61c-6640181323f0" />
+
+- Clientes mais jovens: Risco MAIOR
+- Clientes mais velhos: Risco MENOR
+
 
 ### **2. Valor do Crédito vs Risco**
-```
-Créditos maiores: Risco MENOR (seleção mais rigorosa)
-Créditos menores: Variabilidade MAIOR
-```
+<img width="549" height="415" alt="image" src="https://github.com/user-attachments/assets/d81e6b9e-523a-40b1-994e-bd16a2598c86" />
+
+- Créditos maiores: Risco MENOR (seleção mais rigorosa)
+- Créditos menores: Variabilidade MAIOR
+
 
 ### **3. Duração do Contrato vs Risco**
-```
-Contratos mais curtos: Risco MAIOR
-Contratos mais longos: Risco MENOR (clientes consolidados)
-```
+<img width="534" height="403" alt="image" src="https://github.com/user-attachments/assets/7ec040ec-22e2-4f45-bc6b-19826e7e54e7" />
 
-### **4. Conta de Poupança vs Risco**
-```
-Com poupança: Risco MENOR (reserva financeira)
-Sem poupança: Risco MAIOR (vulnerabilidade)
-```
+- Contratos mais curtos: Risco MAIOR
+- Contratos mais longos: Risco MENOR (clientes consolidados)
 
-### **5. Finalidade do Crédito**
-```
-Finalidades mais comuns:
-- Compra de carro (maior volume)
-- Eletrodomésticos
-- Educação
-- Negócios
-```
+
+### **4. Finalidade do Crédito**
+
+<img width="1403" height="768" alt="image" src="https://github.com/user-attachments/assets/b908d110-7ce2-4a9f-882e-a4fc3faa16ea" />
 
 ---
 
