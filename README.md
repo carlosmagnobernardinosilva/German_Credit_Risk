@@ -237,6 +237,7 @@ Identifica:
 | **Random Forest** | ~0.78 | ~0.55 | ~0.68 | ~0.61 |
 | **XGBoost** ⭐ | ~0.80+ | ~0.60+ | ~0.70+ | ~0.65+ |
 | **LightGBM** | ~0.79 | ~0.58 | ~0.69 | ~0.63 |
+<img width="850" height="630" alt="image" src="https://github.com/user-attachments/assets/1cbfa72b-0bc5-455b-8db3-2ffd0898aecd" />
 
 **Melhor Modelo: XGBoost** (maior ROC-AUC e F1-Score)
 
