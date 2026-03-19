@@ -108,14 +108,14 @@ Esta análise explora as características demográficas, financeiras e comportam
 <img width="730" height="450" alt="image" src="https://github.com/user-attachments/assets/f33fbee1-a043-4ee2-a527-57db0d4929db" />
 
 **Interpretação:**
-- **Maioria proprietária**: 70% possui moradia própria
+- **Maioria proprietária**: 72% possui moradia própria
   - Sinal de estabilidade e patrimônio
   - Correlação esperada com menor risco
   
-- **15% aluguel**: Grupo mais móvel
+- **17% aluguel**: Grupo mais móvel
   - Possível sinal de menor estabilidade
   
-- **10% gratuito**: Moram com familiares
+- **11% gratuito**: Moram com familiares
   - Reduz custos, mas pode indicar dependência financeira
 
 ---
